@@ -22,3 +22,6 @@
 #VR
 >States: type, currentCharge, functional, on/off , currentScope, open/close
 >behaviors:watching, changeVideos, charged, changeScops, on/off 
+#NoteBook
+>States: type, size, new , numberofPages, hasLines, covered
+>behaviors: writing, drawing
