@@ -13,3 +13,6 @@
 #Glasses
 >States:size, lensType,Framecolor, style(withFrame or not),clean,worn,Regular, materialType 
 >behaviors: see, changeingLense, protection
+#Cat
+>States: name, type, color,age, clean, sick, typeofFood
+>behaviors:playing , running , sleeping,eating,
