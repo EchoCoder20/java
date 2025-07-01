@@ -28,3 +28,6 @@
 #Charge
 >States:type, size, color, functional, on/off, usedWire
 >behaviors:charging 
+#rubix Cube
+>States:type, size, solved, numberofColors,new
+>behaviors:turn right and left, disintegrate, 
