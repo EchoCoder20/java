@@ -7,3 +7,6 @@
 #Pen
 >States:color, size, length, currentInkLevel, capShape,capped,used, dry
 >behaviors:writing, Drying out, leaking,
+#Keyboard
+>States:size, type,numberofKeys,color,clean,wired,languageSetting, functional, capslock(on/off),normal
+>behaviors:typing,pressingKeys, responseTime
