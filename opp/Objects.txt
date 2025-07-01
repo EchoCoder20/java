@@ -49,3 +49,6 @@
 #Banana
 >States: color, type, iseaten, length
 >behaviors:ripen, eat
+#Cap
+>States: type, color, isWorn, brand, clean, new
+>behaviors:wear, wash, remove, changeColor
