@@ -19,3 +19,6 @@
 #Car
 >States:name, engineType, color, size, currentSpeed, clean , new, lightColor, open or close , smartDoors
 >behaviors:turn right and left , changeSpeed, breaking, moveForword
+#VR
+>States: type, currentCharge, functional, on/off , currentScope, open/close
+>behaviors:watching, changeVideos, charged, changeScops, on/off 
