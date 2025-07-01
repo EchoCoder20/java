@@ -10,3 +10,6 @@
 #Keyboard
 >States:size, type,numberofKeys,color,clean,wired,languageSetting, functional, capslock(on/off),normal
 >behaviors:typing,pressingKeys, responseTime
+#Glasses
+>States:size, lensType,Framecolor, style(withFrame or not),clean,worn,Regular, materialType 
+>behaviors: see, changeingLense, protection
