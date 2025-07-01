@@ -40,3 +40,6 @@
 #Arduino
 >States:type, size, numberofPins, original , new , connected/DisConnecetd, 
 >behaviors: Programmed, restart, powered, validating 
+#BreadBoard
+>States: type, color, used, 
+>behaviors: wireConnection, testing, prototyping
