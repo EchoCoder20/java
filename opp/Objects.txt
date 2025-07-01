@@ -43,3 +43,6 @@
 #BreadBoard
 >States: type, color, used, 
 >behaviors: wireConnection, testing, prototyping
+#Horse
+>States:type, color, trained,
+>behaviors:eating, racing, riding, 
