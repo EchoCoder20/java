@@ -37,3 +37,6 @@
 #Plate
 >States:meterialType, size, color, new, heatTolerant , empty, clean, flat,location
 >behaviors:HoldingFood,breaking, usedinMicrowave
+#Arduino
+>States:type, size, numberofPins, original , new , connected/DisConnecetd, 
+>behaviors: Programmed, restart, powered, validating 
