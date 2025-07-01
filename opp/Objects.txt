@@ -55,3 +55,6 @@
 #Ring
 >States:currentSize, type , original, 
 >behaviors:wear, remove, changeSize,  
+#WaterSensor
+>States:type, isUsed, functional , color, dry,  
+>behaviors:waterSensitvity, waterAmount, 
