@@ -52,3 +52,6 @@
 #Cap
 >States: type, color, isWorn, brand, clean, new
 >behaviors:wear, wash, remove, changeColor
+#Ring
+>States:currentSize, type , original, 
+>behaviors:wear, remove, changeSize,  
