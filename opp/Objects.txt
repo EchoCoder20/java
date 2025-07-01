@@ -25,3 +25,6 @@
 #NoteBook
 >States: type, size, new , numberofPages, hasLines, covered
 >behaviors: writing, drawing
+#Charge
+>States:type, size, color, functional, on/off, usedWire
+>behaviors:charging 
