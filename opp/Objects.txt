@@ -16,3 +16,6 @@
 #Cat
 >States: name, type, color,age, clean, sick, typeofFood
 >behaviors:playing , running , sleeping,eating,
+#Car
+>States:name, engineType, color, size, currentSpeed, clean , new, lightColor, open or close , smartDoors
+>behaviors:turn right and left , changeSpeed, breaking, moveForword
