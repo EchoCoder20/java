@@ -1,3 +1,6 @@
 #Ball
 >States:CurrentSize, Color, type,
 >behaviors:Rolling, deflate and inflate
+#WaterBottel
+>States:color, size, capacity,filled, empty, open , closed
+>behaviors: filling, emptying,leakage
