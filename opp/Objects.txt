@@ -31,3 +31,6 @@
 #rubix Cube
 >States:type, size, solved, numberofColors,new
 >behaviors:turn right and left, disintegrate, 
+#Mouse
+>States:size, color, Iswired, type, old,functional,
+>behaviors:timeResponse, clicked, move, scroll, 
