@@ -46,3 +46,6 @@
 #Horse
 >States:type, color, trained,
 >behaviors:eating, racing, riding, 
+#Banana
+>States: color, type, iseaten, length
+>behaviors:ripen, eat
