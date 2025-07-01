@@ -1,0 +1,3 @@
+#Ball
+>States:CurrentSize, Color, type,
+>behaviors:Rolling, deflate and inflate
