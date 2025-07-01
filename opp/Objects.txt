@@ -34,3 +34,6 @@
 #Mouse
 >States:size, color, Iswired, type, old,functional,
 >behaviors:timeResponse, clicked, move, scroll, 
+#Plate
+>States:meterialType, size, color, new, heatTolerant , empty, clean, flat,location
+>behaviors:HoldingFood,breaking, usedinMicrowave
