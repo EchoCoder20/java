@@ -4,3 +4,6 @@
 #WaterBottel
 >States:color, size, capacity,filled, empty, open , closed
 >behaviors: filling, emptying,leakage
+#Pen
+>States:color, size, length, currentInkLevel, capShape,capped,used, dry
+>behaviors:writing, Drying out, leaking,
